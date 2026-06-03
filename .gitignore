@@ -1,0 +1,30 @@
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Variáveis de ambiente
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Resultados
+resultado_*.json
